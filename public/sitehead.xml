@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://vdegalatours.com.mx/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://vdegalatours.com.mx/como-viajar/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://vdegalatours.com.mx/servicios/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://vdegalatours.com.mx/lo-nuevo/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://vdegalatours.com.mx/nosotros/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://vdegalatours.com.mx/terminos-condiciones.pdf</loc>
+  <lastmod>2015-09-13T22:31:41+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>

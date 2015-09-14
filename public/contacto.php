@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Conéctate con nuestros tours</title>
+    <meta name="author" content="Orange Boutique Creativa">
     <meta name="description" content="Acércate, tenemos sorpresas preparadas y un paquete te está esperando, recuerda
     que puedes armar paquetes a tu medida para ti y los tuyos, no se queden sin la oportunidad de vivir esta experiencia.">
     <!-- Bootstrap -->
@@ -67,5 +68,13 @@
     <script src="/js/map.js"></script>
     <script src="/js/map-setup.js"></script>
     <script src="/js/custom.js"></script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-67595600-1', 'auto');
+    ga('send', 'pageview');
+    </script>
   </body>
 </html>

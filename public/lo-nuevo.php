@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Lo Nuevo</title>
+    <meta name="author" content="Orange Boutique Creativa">
     <meta name="description" content="Traemos los destinos y tours más nuevos, con una amplia variedad de servicios, te invitamos
     a conocer lo nuevo que Viajes de Gala tiene para ti">
     <!-- Bootstrap -->
@@ -160,5 +161,13 @@
     <!--  Custom Javascript Functions -->
     <script src="/js/navigation.js"></script>
     <script src="/js/custom.js"></script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-67595600-1', 'auto');
+    ga('send', 'pageview');
+    </script>
   </body>
 </html>
