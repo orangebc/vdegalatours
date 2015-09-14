@@ -1,0 +1,1692 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,200,100,300,500,600,700,800,900");
+.colorize-red {
+  color: #e00c30;
+}
+.colorize-blue {
+  color: #28b6cc;
+}
+.colorize-yellow {
+  color: #f9b80f;
+}
+.colorize-orange {
+  color: #cc530f;
+}
+.colorize-purple {
+  color: #470b94;
+}
+.colorize-green {
+  color: #69b222;
+}
+.backgroundize-red {
+  background-color: #e00c30;
+}
+.backgroundize-blue {
+  background-color: #28b6cc;
+}
+.backgroundize-yellow {
+  background-color: #f9b80f;
+}
+.backgroundize-orange {
+  background-color: #cc530f;
+}
+.backgroundize-purple {
+  background-color: #470b94;
+}
+.backgroundize-green {
+  background-color: #69b222;
+}
+.travel-mexico {
+  overflow: hidden;
+}
+.travel-mexico__general-info {
+  background-color: #102451;
+  padding: 2em 3em;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico__general-info {
+    text-align: center;
+  }
+}
+.travel-mexico .base-white-subtitle small,
+.travel-mexico .base-white-description small {
+  display: block;
+  color: #fff;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico .base-white-subtitle,
+  .travel-mexico .base-white-description {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.travel-mexico .base-white-description {
+  font-weight: 600;
+}
+.travel-mexico .base-white-separator {
+  width: 20px;
+  margin: 0;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico .base-white-separator {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.travel-mexico__info {
+  padding: 2em 2em;
+}
+@media only screen and (min-width: 1600px) {
+  .travel-mexico__info {
+    padding: 4em 3em;
+  }
+}
+.travel-mexico__info .base-title {
+  font-size: 21px;
+  text-align: left;
+  margin: 0;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico__info .base-title {
+    text-align: center;
+  }
+}
+.travel-mexico__info .base-description {
+  font-size: 14px;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico__info .base-description {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    text-align: center;
+  }
+}
+.travel-mexico__info .base-list {
+  padding-left: 1em;
+  list-style-type: circle;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico__info .base-list {
+    text-align: center;
+    list-style-type: none;
+  }
+}
+.travel-mexico__info .base-list li {
+  font-size: 14px;
+  margin: 1em 0;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .travel-mexico__info .base-list li {
+    font-size: 14px;
+  }
+}
+.travel-mexico__info .base-list li strong {
+  display: block;
+  margin: 1.5em 0;
+}
+.travel-map {
+  width: 100%;
+  min-height: 500px;
+}
+.travel-tours {
+  overflow: hidden;
+}
+.travel-tours-corazonDeMexico {
+  background: url("../images/como-viajar/modulares1.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours-mundoMaya {
+  background: url("../images/como-viajar/modulares2.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours-rutaDeLosDioses {
+  background: url("../images/como-viajar/modulares3.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours-tesorosColoniales {
+  background: url("../images/como-viajar/modulares4.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours-jaliscoEsMexico {
+  background: url("../images/como-viajar/modulares5.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours-mexicoNorte {
+  background: url("../images/como-viajar/modulares6.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.travel-tours .base-title {
+  margin: 2em 0;
+}
+.travel-tours__item {
+  padding: 2.5em 2em;
+  text-align: center;
+  cursor: pointer;
+}
+.travel-tours__item--title {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.2em;
+}
+.circuits .base-title {
+  margin: 2em 0;
+}
+.circuits__item--bg-1 {
+  background: url("../images/como-viajar/cir1-cultural.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-2 {
+  background: url("../images/como-viajar/cir2-historico.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-3 {
+  background: url("../images/como-viajar/cir3-religioso.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-4 {
+  background: url("../images/como-viajar/cir4-arqueologico.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-5 {
+  background: url("../images/como-viajar/cir5-gastronomico.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-6 {
+  background: url("../images/como-viajar/cir6-aventura.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-7 {
+  background: url("../images/como-viajar/cir7-pueblosmagicos.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__item--bg-8 {
+  background: url("../images/como-viajar/cir8-urbanexcitement.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.circuits__trend {
+  background-color: #102451;
+  padding: 1em;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 18px;
+  color: #fff;
+  overflow: hidden;
+}
+.circuits__item {
+  text-align: center;
+  padding: 3em 1em;
+  cursor: pointer;
+}
+.circuits__item--icon img {
+  width: 42px;
+  height: auto;
+}
+.travel-close {
+  background: url("../images/como-viajar/bgfinal-vgala.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  padding: 5em 0;
+  overflow: hidden;
+}
+.travel-close .base-subtitle {
+  text-align: center;
+  font-weight: 800;
+}
+.travel-close .base-subtitle small {
+  display: block;
+  font-weight: 500;
+}
+.tp-banner-container {
+  width: 100%;
+  position: relative;
+  padding: 0;
+  height: 400px;
+}
+.tp-banner {
+  position: relative;
+  width: 100%;
+}
+.tp-banner ul li .tp-caption {
+  line-height: 0;
+}
+.hidden-travel-tours__container {
+  overflow: hidden;
+}
+.hidden-travel-tours__title {
+  color: #fff;
+  margin: 0;
+  padding: 1em 1.5em;
+  font-weight: 700;
+  font-size: 21px;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .hidden-travel-tours__title {
+    font-size: 18px;
+  }
+}
+.hidden-travel-tours__subtitle {
+  font-weight: 800;
+  margin: 1em 0;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .hidden-travel-tours__subtitle {
+    text-align: center;
+  }
+}
+.hidden-travel-tours__mini-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+.hidden-travel-tours__block p.base-description {
+  max-width: 100%;
+  text-align: justify;
+}
+.hidden-travel-tours__image {
+  padding-top: 3em;
+}
+.hidden-travel-tours__image img {
+  width: 100%;
+  height: auto;
+}
+.hidden-circuits {
+  overflow: hidden;
+}
+.hidden-circuit__title {
+  color: #fff;
+  margin: 0;
+  background-color: #102451;
+  padding: 1em;
+  font-size: 21px;
+  font-weight: 800;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .hidden-circuit__title {
+    font-size: 18px;
+  }
+}
+.hidden-circuit__table--header {
+  color: #102451;
+  font-size: 18px;
+  font-weight: 800;
+  margin: 0;
+}
+.hidden-circuit__table tbody tr {
+  padding: 1em 0;
+}
+.hidden-circuit__table tbody tr th {
+  color: #102451;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0.5em 1.5em;
+}
+.hidden-circuit__table tbody tr td {
+  font-weight: 600;
+  font-size: 14px;
+  color: #262626;
+}
+body {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding-top: 70px;
+}
+.nopadding {
+  padding: 0 !important;
+}
+.paddingtb {
+  padding: 3em 0;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .paddingtb {
+    padding: 0;
+  }
+}
+.move-left {
+  margin-left: 32px;
+}
+.move-top {
+  margin-top: 20px;
+}
+.move-right {
+  margin-right: 20px;
+}
+.close-pane,
+.close-circuit {
+  cursor: pointer;
+}
+.base-list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.base-list li {
+  color: #575756;
+  padding: 1em 0;
+  font-size: 14px;
+}
+.base-description {
+  color: #575756;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.5em;
+  padding: 1em 0;
+  max-width: 500px;
+}
+.base-white-description {
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.5em;
+  padding: 1em 0;
+  max-width: 500px;
+}
+.base-button {
+  background-color: #102451;
+  color: #fff;
+  padding: 1em 1.5em;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.base-button:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.base-button span {
+  margin-left: 0.5em;
+}
+.base-title {
+  color: #102451;
+  font-size: 32px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+.base-title small {
+  color: #102451;
+  font-weight: 300;
+  display: block;
+}
+.base-white-title {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+.base-white-title small {
+  color: #fff;
+  font-weight: 300;
+  display: block;
+}
+.base-fullTitle {
+  background-color: #102451;
+  color: #fff;
+  font-size: 21px;
+  font-weight: 700;
+  margin: 0;
+  padding: 0.5em 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.base-subtitle {
+  color: #102451;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 1em 0;
+  line-height: 1.5em;
+}
+.base-white-subtitle {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 1em 0;
+}
+.base-black-subtitle {
+  color: #000;
+  line-height: 2em;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 1em 0;
+}
+.base-separator {
+  outline: 0;
+  border: 0;
+  height: 2px;
+  width: 40px;
+  background-color: #102451;
+  margin: 0;
+}
+.base-white-separator {
+  outline: 0;
+  border: 0;
+  height: 2px;
+  width: 40px;
+  background-color: #fff;
+  margin: 0;
+}
+.display-flex {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+}
+@media only screen and (min-width: 320px) and (max-width: 1199px) {
+  .display-flex {
+    display: block;
+  }
+}
+.header {
+  background-color: #102451;
+  padding: 0.5em;
+  text-align: right;
+  display: block;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 300;
+}
+.header__icon {
+  margin-right: 6px;
+}
+.header__logo {
+  background-color: #fff;
+  padding: 0.5em;
+  position: absolute;
+  top: 0;
+  left: 36px;
+  text-align: center;
+  z-index: 100;
+  -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+.header__logo img {
+  width: 80px;
+  height: auto;
+}
+.header__logo a {
+  display: block;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .header__logo {
+    left: 5px;
+  }
+}
+.header__links {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 0;
+  margin-right: 70px;
+}
+.header__links li {
+  color: #fff;
+  font-weight: 200;
+  font-size: 14px;
+  margin-right: 0.5em;
+}
+@media only screen and (min-width: 320px) and (max-width: 454px) {
+  .header__links li:first-child {
+    display: none;
+  }
+}
+.header__links li a {
+  display: inline-block;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 200;
+}
+.header__links li a:hover {
+  text-decoration: none;
+  font-weight: 600;
+}
+.header__menu {
+  background-color: #fff;
+  color: #102451;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.5em;
+  padding-top: 26px;
+  z-index: 300;
+}
+.header__menu span {
+  font-size: 18px;
+  display: block;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+.navigation {
+  display: none;
+  background-color: rgba(16,35,81,0.8);
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 200;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .navigation {
+    overflow-x: scroll;
+  }
+}
+.navigation__skihouse {
+  background-color: #f00 !important;
+}
+.navigation__skihouse:hover .navigation__links--name {
+  font-weight: normal;
+  border: 2px solid transparent !important;
+}
+.navigation__close {
+  font-size: 12px;
+  padding: 0.5em;
+  background-color: #fff;
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  color: #102451;
+  cursor: pointer;
+}
+.navigation__links {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.navigation__links--icon {
+  width: 60px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navigation__links--name {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+  font-size: 12px;
+}
+.navigation__links li {
+  padding-top: 2em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .navigation__links li {
+    width: 100%;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 779px) {
+  .navigation__links li {
+    width: 50%;
+    float: left;
+  }
+}
+.navigation__links li:hover {
+  background-color: #102451;
+}
+.navigation__links li:hover .navigation__links--name {
+  font-weight: 600;
+  border-bottom: 2px solid #fff;
+}
+.video__container {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+video {
+  object-fit: contain;
+  margin-top: -120px;
+}
+.discover__title {
+  background-color: #90bd24;
+  padding: 2em 0;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin: 0;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .discover__title {
+    padding: 2em 1em;
+  }
+}
+.discover__visit-mexico {
+  text-align: center;
+  padding: 1em;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .discover__visit-mexico {
+    padding: 1em 0;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  .discover__visit-mexico {
+    padding: 1em 0;
+  }
+}
+.discover__visit-mexico img {
+  width: 260px;
+  height: auto;
+}
+.howToTravel__container {
+  width: 100%;
+  position: relative;
+}
+.howToTravel__container img {
+  width: 100%;
+  height: auto;
+}
+.howToTravel__container figcaption {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+}
+.howToTravel__title {
+  color: #fff;
+  text-align: center;
+  padding: 3em 0;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0;
+}
+@media only screen and (min-width: 1600px) {
+  .howToTravel__title {
+    padding: 3.5em 0;
+    font-size: 42px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .howToTravel__title {
+    padding: 1.8em 0;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .howToTravel__title {
+    padding: 3em 0;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .howToTravel__title {
+    padding: 3.5em 0;
+    font-size: 21px;
+    line-height: 1.5em;
+  }
+}
+.howToTravel__title small {
+  font-weight: 300;
+  color: #fff;
+  display: block;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .howToTravel__title small {
+    display: block;
+  }
+}
+.howToTravel__tours {
+  position: relative;
+}
+.howToTravel__tours img {
+  width: 100%;
+  height: 100%;
+}
+.howToTravel__tours-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 3em 2.5em;
+  display: block;
+  width: 100%;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .howToTravel__tours-caption {
+    padding: 2em 2.5em;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .howToTravel__tours-caption {
+    text-align: center;
+  }
+}
+.howToTravel__tours-caption--button {
+  color: #fff;
+  font-size: 12px;
+  margin-top: 1em;
+  padding: 0.5em 1.5em;
+  border: 1px solid #fff;
+  text-transform: uppercase;
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  -o-transition: background-color 0.5s ease-out;
+  -ms-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
+}
+.howToTravel__tours-caption--button:hover {
+  text-decoration: none;
+  background-color: #102451;
+  color: #fff;
+}
+.howToTravel__tours-caption--title {
+  color: #fff;
+  font-size: 21px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+@media only screen and (min-width: 1600px) {
+  .howToTravel__tours-caption--title {
+    font-size: 42px;
+  }
+}
+.howToTravel__tours-caption--title small {
+  display: block;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 21px;
+  line-height: 1.5em;
+}
+.main-services {
+  padding: 2em 0;
+}
+.main-services__name {
+  text-transform: uppercase;
+  color: #102451;
+  margin: 2em 0;
+  font-weight: 300;
+}
+.main-services ul {
+  text-align: center;
+  margin-top: 2em;
+}
+.main-services ul li {
+  padding: 1em 2.5em;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .main-services ul li {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .main-services ul li {
+    padding: 1em 3em;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  .main-services ul li {
+    padding: 1em 4.5em;
+  }
+}
+.main-services ul li a:hover {
+  text-decoration: none;
+}
+.main-services ul li a:hover .main-services__name {
+  font-weight: 700;
+  color: #102451;
+}
+.main-services ul li a:hover .main-services__icon {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+}
+.main-services ul li img {
+  width: 60px;
+  height: auto;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition: all 0.6s ease;
+}
+.main-newest {
+  width: 100%;
+  padding: 4em 0;
+  background: url("../images/new-vgala.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .main-newest {
+    padding: 2em 0;
+  }
+}
+.main-newest__container {
+  padding-top: 6em;
+  padding-bottom: 6em;
+  padding-left: 3em;
+  max-width: 550px;
+  text-align: right;
+}
+@media only screen and (min-width: 1600px) {
+  .main-newest__container {
+    padding-left: 8em;
+    max-width: auto;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .main-newest__container {
+    padding: 2em;
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .main-newest__container {
+    padding: 1em;
+    text-align: center;
+  }
+}
+.main-newest .base-title {
+  text-align: left;
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .main-newest .base-title {
+    text-align: center;
+  }
+}
+.main-newest .base-description {
+  text-align: left;
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .main-newest .base-description {
+    text-align: center;
+  }
+}
+.main-newest .base-button {
+  margin-right: 5em;
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .main-newest .base-button {
+    margin-right: auto;
+  }
+}
+.main-about {
+  background: url("../images/nosotros-vgala.jpg") 50% 50%, center no-repeat;
+  padding: 4em 0;
+  text-align: center;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .main-about {
+    padding: 1.5em 0;
+    background: none;
+  }
+}
+.main-about .base-description {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+.main-about .base-description strong {
+  color: #102451;
+}
+.newsletter {
+  padding: 3em 0;
+  background: url("../images/newsletter-vgala.jpg") 20% 50%, no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.newsletter__title {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .newsletter__title {
+    font-size: 21px;
+  }
+}
+.newsletter__description {
+  color: #fff;
+  font-weight: 300;
+  font-size: 14px;
+}
+.newsletter__container {
+  padding-left: 10em;
+}
+@media only screen and (min-width: 1600px) {
+  .newsletter__container {
+    padding-left: 16em;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .newsletter__container {
+    padding-left: 0;
+    padding-top: 3em;
+  }
+}
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+  .newsletter__container {
+    padding-left: 0;
+    padding-top: 3em;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .newsletter__container {
+    padding-left: 0;
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .newsletter__container {
+    padding-left: 0;
+    text-align: center;
+  }
+}
+.newsletter__form {
+  padding-top: 1.5em;
+}
+.newsletter__form input[type="text"],
+.newsletter__form input[type="email"] {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  color: #102451;
+}
+.newsletter__form input[type="submit"] {
+  background-color: #102451;
+  border: 1px solid #fff;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;
+  text-trasnform: uppercase;
+  padding: 0.8em 3em;
+  margin-top: 1.7em;
+  outline: 0;
+}
+.newsletter__form label {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.main {
+  background: url("../images/bgformularioviajesgala.jpg") repeat;
+  overflow: hidden;
+}
+.main .container {
+  padding: 2em 0;
+}
+.main input[type="text"],
+.main input[type="number"],
+.main input[type="email"],
+.main select,
+.main input[type="date"],
+.main input[type="tel"],
+.main textarea {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background: transparent;
+  color: #102451;
+}
+.main__interested {
+  text-align: center;
+  color: #102451;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
+}
+.main label {
+  color: #102451;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 0.5em 0;
+  text-transform: uppercase;
+}
+.main input[type="submit"] {
+  color: #102451;
+  background-color: transparent;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: 1px solid #102451;
+  padding: 0.5em 3.5em;
+  margin-bottom: 2em;
+}
+.main input[disabled] {
+  color: #808080;
+  border-color: #808080;
+}
+.main input[disabled] span {
+  margin-right: 0.5em;
+}
+.footer__privacy {
+  background-color: #3c3c3b;
+  padding: 1em 0;
+  color: #fff;
+  margin: 0;
+  text-align: center;
+}
+.footer__privacy a {
+  color: #fff;
+}
+.footer__privacy a:hover {
+  text-decoration: underline;
+}
+.footer__legend {
+  text-align: center;
+  color: #fff;
+  background-color: #102451;
+  margin: 0;
+  padding: 1em 0;
+  font-size: 16px;
+  position: relative;
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend {
+    padding: 1em 0;
+    margin: 0;
+  }
+}
+.footer__legend--galatours,
+.footer__legend--skihouse {
+  position: absolute;
+  width: 160px;
+  background-color: #fff;
+  top: 0;
+  padding: 0.5em;
+  height: 64px;
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend--galatours,
+  .footer__legend--skihouse {
+    display: none;
+  }
+}
+.footer__legend--galatours {
+  left: 0;
+}
+.footer__legend--galatours:after {
+  content: '';
+  background-color: #fff;
+  display: block;
+  width: 50px;
+  height: 64px;
+  position: absolute;
+  left: 80%;
+  top: 0;
+  -webkit-transform: skewX(30deg);
+  -moz-transform: skewX(30deg);
+  -o-transform: skewX(30deg);
+  -ms-transform: skewX(30deg);
+  transform: skewX(30deg);
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend--galatours:after {
+    display: none;
+  }
+}
+.footer__legend--galatours img {
+  width: 45px;
+  height: auto;
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend--galatours {
+    display: none;
+  }
+}
+.footer__legend--skihouse {
+  right: 0;
+  padding: 1em 0.5em;
+}
+.footer__legend--skihouse:before {
+  content: '';
+  background-color: #fff;
+  display: block;
+  width: 50px;
+  height: 64px;
+  position: absolute;
+  right: 80%;
+  top: 0;
+  -webkit-transform: skewX(30deg);
+  -moz-transform: skewX(30deg);
+  -o-transform: skewX(30deg);
+  -ms-transform: skewX(30deg);
+  transform: skewX(30deg);
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend--skihouse:before {
+    display: none;
+  }
+}
+.footer__legend--skihouse img {
+  width: 120px;
+}
+@media only screen and (min-width: 0) and (max-width: 599px) {
+  .footer__legend--skihouse {
+    display: none;
+  }
+}
+.footer__orange {
+  text-align: center;
+  color: #fff;
+  padding: 1em 0;
+  margin: 0;
+  background-color: #05152d;
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 1.5em;
+}
+.footer__orange a {
+  color: #fff;
+}
+.about {
+  background: url("../images/bg-nosotrosviajesgala.jpg") 50% 100%, center;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  padding: 4em 0;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .about {
+    background: none;
+    padding: 1em 0;
+  }
+}
+.about h2.base-title {
+  padding: 1em 0;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .about__container {
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .about__container p.base-description,
+  .about__container hr.base-separator {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.scope {
+  padding: 3em 0;
+  background-color: #102451;
+  text-align: center;
+}
+.scope p.base-white-description,
+.scope hr.base-white-separator {
+  margin-left: auto;
+  margin-right: auto;
+}
+.fair__title {
+  background-color: #d2d2d2;
+  padding: 3em 0;
+}
+.fair__logos {
+  padding: 3em 0;
+}
+.fair__logos ul {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.fair__logos ul li {
+  margin-right: 30px;
+}
+.fair__logos ul li:last-child {
+  margin-right: 0;
+}
+@media only screen and (min-width: 0) and (max-width: 479px) {
+  .fair__logos ul li {
+    width: 100%;
+    padding: 1em 0;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1499px) {
+  .fair__logos ul li {
+    margin-right: 90px;
+  }
+}
+@media only screen and (min-width: 1500px) {
+  .fair__logos ul li {
+    margin-right: 150px;
+  }
+}
+.fair__logos ul li img {
+  width: 120px;
+}
+.services {
+  background: url("../images/bgserv-vgala.jpg") 50% 100%, center;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .services {
+    background: none;
+  }
+}
+.services h2.base-title {
+  padding: 2em 0;
+}
+.services__bg--blue {
+  background-color: #102451;
+}
+.services__bg--gray {
+  background-color: #d2d2d2;
+}
+.services__item {
+  padding: 2em;
+  width: 50%;
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .services__item {
+    width: 100%;
+    padding: 2em 1em;
+    display: block;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+  .services__item {
+    display: block;
+    width: 100%;
+    padding: 2em 1em;
+  }
+  .services__item h3,
+  .services__item p {
+    margin: 0;
+  }
+  .services__item hr {
+    margin: 20px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .services__item {
+    padding: 2.5em 2em;
+  }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1699px) {
+  .services__item {
+    padding: 4em 2em;
+  }
+}
+@media only screen and (min-width: 1700px) {
+  .services__item {
+    padding: 6em 2em;
+  }
+}
+.services__item p.base-description,
+.services__item hr.base-separator,
+.services__item p.base-white-description,
+.services__item hr.base-white-separator {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.services__item hr {
+  margin: 1.5em 0;
+}
+.services__thumbnail {
+  width: 50%;
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .services__thumbnail {
+    width: 100%;
+    display: block;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+  .services__thumbnail {
+    width: 100%;
+    display: block;
+    padding: 0;
+  }
+}
+.services__thumbnail img {
+  width: 100%;
+  height: 100%;
+}
+.services h6.base-description {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 4em 0;
+}
+.services-list {
+  padding: 3em 0;
+  overflow: hidden;
+}
+.services-list__item {
+  text-align: center;
+  padding: 2em;
+}
+.services-list__item p.base-description {
+  margin-left: auto;
+  margin-right: auto;
+}
+.services-list__item h3 {
+  font-weight: 800;
+}
+.services-list__icon img {
+  width: 80px;
+  height: auto;
+}
+.newest-block__title {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #102451;
+  padding: 2em 1em;
+  max-width: 400px;
+}
+.newest-block__title h6.base-white-description {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.newest__galatours {
+  text-align: center;
+  padding: 3em 0;
+}
+.newest__galatours p.base-description {
+  margin-left: auto;
+  margin-right: auto;
+}
+.newest-thumbnail {
+  position: relative;
+  overflow: hidden;
+  height: 700px;
+}
+@media only screen and (min-width: 0) and (max-width: 549px) {
+  .newest-thumbnail {
+    height: auto;
+    position: relative;
+  }
+}
+.newest-thumbnail__magic-towns {
+  background: url("../images/newest/pueblosmagicos-vgalatours.jpg") 50% 50%, center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.newest-thumbnail__urban-excitment {
+  background: url("../images/newest/urban-vgalatours.jpg") 50% 50%, center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.newest-thumbnail__adrenaline-adventure {
+  background: url("../images/newest/aventura-vgalatours.jpg") 50% 50%, center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+@media only screen and (min-width: 550px) {
+  .newest-thumbnail:hover .newest-thumbnail__details {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transition: opacity 1s ease;
+    -moz-transition: opacity 1s ease;
+    -o-transition: opacity 1s ease;
+    -ms-transition: opacity 1s ease;
+    transition: opacity 1s ease;
+  }
+}
+.newest-thumbnail img {
+  width: 100%;
+  height: auto;
+}
+.newest-thumbnail__border {
+  border-bottom: 30px solid #102451;
+}
+.newest-thumbnail__details {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  background: rgba(16,35,81,0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 650px;
+  height: 100%;
+  padding: 1em 2em;
+  display: block;
+  text-align: center;
+}
+@media only screen and (min-width: 0) and (max-width: 649px) {
+  .newest-thumbnail__details {
+    width: 100%;
+    position: static;
+    padding: 1em;
+    display: block;
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+  }
+}
+.newest-thumbnail__details h6.base-white-subtitle {
+  font-size: 24px;
+}
+.newest-thumbnail__details p.base-white-description {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  font-size: 14px;
+  padding: 0.5em 0;
+}
+.newest-thumbnail__details h5 {
+  margin: 0 auto;
+  padding: 0.5em 0;
+}
+.newest-thumbnail__details--icons {
+  text-align: center;
+}
+.newest-thumbnail__details--icons li {
+  padding: 0.5em 1em;
+}
+.newest-thumbnail__details--icons li img {
+  width: 32px;
+  height: auto;
+}
+.newest-thumbnail__details--icons li span {
+  display: block;
+  text-align: center;
+  padding: 0.5em 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+}
+.newest-thumbnail__details--list {
+  padding: 0;
+  text-align: left;
+}
+@media only screen and (min-width: 0) and (max-width: 649px) {
+  .newest-thumbnail__details--list {
+    padding: 0 1em;
+  }
+}
+.newest-thumbnail__details--list li {
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 0.5em;
+}
+.contact-us__container {
+  background: url("../images/bg-contact-vgala.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  padding: 5em 3em;
+  text-align: center;
+  height: 650px;
+}
+.contact-us__container--email,
+.contact-us__container--phone {
+  padding-top: 1em;
+}
+.contact-us__container--email img,
+.contact-us__container--phone img {
+  width: 24px;
+  height: auto;
+}
+.contact-us h2 {
+  margin: 0;
+}
+.contact-us p {
+  margin-bottom: 0;
+}
+.contact-us hr,
+.contact-us p,
+.contact-us h6 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.contact-us hr a,
+.contact-us p a,
+.contact-us h6 a {
+  color: #fff;
+}
+#map {
+  width: 100%;
+  height: 650px;
+}
+@media only screen and (min-width: 0) and (max-width: 991px) {
+  #map {
+    height: 300px;
+  }
+}
+.pays {
+  padding: 3em 0 18em 0;
+  text-align: center;
+  background: url("../images/bgpago-vgalatours.jpg") 50% 50%, bottom no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+@media only screen and (min-width: 0) and (max-width: 1199px) {
+  .pays {
+    background: none;
+    padding: 2em 0;
+  }
+}
+.pays h6,
+.pays hr,
+.pays p {
+  margin-left: auto;
+  margin-right: auto;
+}
+.pays__paypal {
+  padding: 3em 0;
+}
+.up {
+  background-color: #102451;
+  -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  color: #fff;
+  display: block;
+  padding-top: 1.2em;
+  position: fixed;
+  top: 50%;
+  margin-top: -32px;
+  width: 65px;
+  height: 65px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  right: 5px;
+  z-index: 2000;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+.up span {
+  color: #fff;
+  text-align: center;
+}
+.privacy-notice {
+  background: url("../images/bg-artblog-gala.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  padding: 1em 0;
+}
+@media only screen and (min-width: 1200px) {
+  .privacy-notice {
+    padding: 6em 0;
+  }
+}
+.privacy-notice .container {
+  background-color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+@media only screen and (min-width: 1200px) {
+  .privacy-notice .container {
+    padding: 2em 6em;
+  }
+}
+.privacy-notice .container .base-title {
+  margin-bottom: 2em;
+}
+.privacy-notice .container p,
+.privacy-notice .container ul li,
+.privacy-notice .container a {
+  color: #262626;
+  line-height: 2em;
+  text-align: left;
+}
+.privacy-notice .container a {
+  color: #102451;
+  font-weight: 600;
+}
+.privacy-notice .container a:hover {
+  text-decoration: underline;
+}

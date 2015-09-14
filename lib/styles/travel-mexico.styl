@@ -1,0 +1,230 @@
+// Travel Mexico
+
+.travel-mexico
+    overflow hidden
+    &__general-info
+        background-color $baseBlue
+        padding 2em 3em
+        @media only screen and (min-width 0) and (max-width 1199px)
+            text-align center
+    .base-white-subtitle,
+    .base-white-description
+        small
+            display block
+            color white
+            font-weight 300
+            font-size 14px
+            line-height 1.5em
+        @media only screen and (min-width 0) and (max-width 1199px)
+            margin-left auto
+            margin-right auto
+    .base-white-description
+        font-weight 600
+    .base-white-separator
+        width 20px
+        margin 0
+        @media only screen and (min-width 0) and (max-width 1199px)
+            margin-left auto
+            margin-right auto
+    &__info
+        padding 2em 2em
+        @media only screen and (min-width 1600px)
+            padding 4em 3em
+        .base-title
+            font-size 21px
+            text-align left
+            margin 0
+            @media only screen and (min-width 0) and (max-width 1199px)
+                text-align center
+        .base-description
+            font-size 14px
+            @media only screen and (min-width 0) and (max-width 1199px)
+                margin-left auto
+                margin-right auto
+                font-size 14px
+                text-align center
+        .base-list
+            padding-left 1em
+            list-style-type circle
+            @media only screen and (min-width 0) and (max-width 1199px)
+                text-align center
+                list-style-type none
+            li
+                font-size 14px
+                margin 1em 0
+                @media only screen and (min-width 0) and (max-width 1199px)
+                    font-size 14px
+                strong
+                    display block
+                    margin 1.5em 0
+
+.travel-map
+    width 100%
+    min-height 500px
+.travel-tours
+    overflow hidden
+    &-corazonDeMexico
+        background url('../images/como-viajar/modulares1.jpg') no-repeat
+        background-size cover
+    &-mundoMaya
+        background url('../images/como-viajar/modulares2.jpg') no-repeat
+        background-size cover
+    &-rutaDeLosDioses
+        background url('../images/como-viajar/modulares3.jpg') no-repeat
+        background-size cover
+    &-tesorosColoniales
+        background url('../images/como-viajar/modulares4.jpg') no-repeat
+        background-size cover
+    &-jaliscoEsMexico
+        background url('../images/como-viajar/modulares5.jpg') no-repeat
+        background-size cover
+    &-mexicoNorte
+        background url('../images/como-viajar/modulares6.jpg') no-repeat
+        background-size cover
+    .base-title
+        margin 2em 0
+    &__item
+        padding 2.5em 2em
+        text-align center
+        cursor pointer
+        &--title
+            color white
+            font-size 18px
+            font-weight 700
+            text-transform uppercase
+            line-height 1.2em
+
+.circuits
+    .base-title
+        margin 2em 0
+    &__item--bg-1
+        background url('../images/como-viajar/cir1-cultural.jpg') no-repeat
+        background-size cover
+    &__item--bg-2
+        background url('../images/como-viajar/cir2-historico.jpg') no-repeat
+        background-size cover
+    &__item--bg-3
+        background url('../images/como-viajar/cir3-religioso.jpg') no-repeat
+        background-size cover
+    &__item--bg-4
+        background url('../images/como-viajar/cir4-arqueologico.jpg') no-repeat
+        background-size cover
+    &__item--bg-5
+        background url('../images/como-viajar/cir5-gastronomico.jpg') no-repeat
+        background-size cover
+    &__item--bg-6
+        background url('../images/como-viajar/cir6-aventura.jpg') no-repeat
+        background-size cover
+    &__item--bg-7
+        background url('../images/como-viajar/cir7-pueblosmagicos.jpg') no-repeat
+        background-size cover
+    &__item--bg-8
+        background url('../images/como-viajar/cir8-urbanexcitement.jpg') no-repeat
+        background-size cover
+    &__trend
+        background-color $baseBlue
+        padding 1em
+        margin 0
+        text-align center
+        text-transform uppercase
+        font-weight 800
+        font-size 18px
+        color white
+        overflow hidden
+    &__item
+        &--icon
+            img
+                width 42px
+                height auto
+        text-align center
+        padding 3em 1em
+        cursor pointer
+
+.travel-close
+    background url('../images/como-viajar/bgfinal-vgala.jpg') no-repeat
+    background-size cover
+    padding 5em 0
+    overflow hidden
+    .base-subtitle
+        text-align center
+        font-weight 800
+        small
+            display block
+            font-weight 500
+
+.tp-banner-container
+    width 100%
+    position relative
+    padding 0
+    height 400px
+.tp-banner
+    position relative
+    width 100%
+    ul
+        li
+            .tp-caption
+                line-height 0
+
+
+// Hidden travel travel-tours
+
+.hidden-travel-tours
+    &__container
+        overflow hidden
+    &__title
+        color white
+        margin 0
+        padding 1em 1.5em
+        font-weight 700
+        font-size 21px
+        @media only screen and (min-width 320px) and (max-width 479px)
+            font-size 18px
+    &__subtitle
+        font-weight 800
+        margin 1em 0
+        @media only screen and (min-width 320px) and (max-width 479px)
+            text-align center
+    &__mini-title
+        font-size 16px
+        font-weight 600
+    &__block
+        p.base-description
+            max-width 100%
+            text-align justify
+    &__image
+        padding-top 3em
+        img
+            width 100%
+            height auto
+
+// Hidden table
+.hidden-circuits
+    overflow hidden
+.hidden-circuit__title
+    color white
+    margin 0
+    background-color $baseBlue
+    padding 1em
+    font-size 21px
+    font-weight 800
+    @media only screen and (min-width 320px) and (max-width 479px)
+        font-size 18px
+.hidden-circuit__table
+    &--header
+        color $baseBlue
+        font-size 18px
+        font-weight 800
+        margin 0
+    tbody
+        tr
+            padding 1em 0
+            th
+                color $baseBlue
+                font-size 14px
+                font-weight 700
+                text-transform uppercase
+                padding .5em 1.5em
+            td
+                font-weight 600
+                font-size 14px
+                color $baseGray
